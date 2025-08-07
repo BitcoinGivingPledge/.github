@@ -27,7 +27,7 @@ Sign your commitment with a PGP-signed message. <a href="https://opentimestamps.
 
 ## Make the BitcoinGivingPledge.github.io your NIP-05 nostr address
 
-Fork the repository at <a href="https://github.com/BitcoinGivingPledge" target="_blank">https://github.com/BitcoinGivingPledge</a> and add your name and **the HEX** of your nostr npub to the nostr.json file. You can convert your nPub key to HEX format at <a href="https://damus.io/key" target="_blank">https://damus.io/key</a>.
+Fork the repository at <a href="https://github.com/bitcoingivingpledge/BitcoinGivingPledge.github.io" target="_blank">https://github.com/bitcoingivingpledge/BitcoinGivingPledge.github.io</a> and add your name and **the HEX** of your nostr npub to the <code>nostr.json</code> file inside the <code>.well-known</code> folder. You can convert your nPub key to HEX format at <a href="https://damus.io/key" target="_blank">https://damus.io/key</a>.
       <br>
       <br>
-        (More info at <a href="https://BitcoinGivingPledge.github.io" target="_blank">BitcoinGivingPledge.github.io</a> to come. Want to help get this off the ground? <a href="#contact">Get in touch.</a>)
+(More info at <a href="https://BitcoinGivingPledge.github.io" target="_blank">BitcoinGivingPledge.github.io</a>. Want to help get this off the ground? <a href="#contact">Get in touch.</a>)
