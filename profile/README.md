@@ -13,7 +13,6 @@ Bitcoiners will soon be the wealthiest people in the world.<br>
 
 **21% to the cause(s) of your choice. At death—or perhaps better—during your life.**<br>
 Or maybe you want to live off 21% and dedicate your other 79%... IDK. Make it your own!<br>
-      <br>
       
 **SEE, FEEL, AND LIVE YOUR IMPACT.**
       
@@ -28,6 +27,7 @@ Sign your commitment with a PGP-signed message. <a href="https://opentimestamps.
 
 ## Make the BitcoinGivingPledge.github.io your NIP-05 nostr address
 
-Fork the repository at <a href="https://github.com/BitcoinGivingPledge" target="_blank">https://github.com/BitcoinGivingPledge</a> and add your name and **the HEX** of your nostr npub to the nostr.json file. You can convert your nPub key to HEX format at https://damus.io/key.
+Fork the repository at <a href="https://github.com/BitcoinGivingPledge" target="_blank">https://github.com/BitcoinGivingPledge</a> and add your name and **the HEX** of your nostr npub to the nostr.json file. You can convert your nPub key to HEX format at <a href="https://damus.io/key" target="_blank">https://damus.io/key</a>.
+      <br>
       <br>
         (More info at <a href="https://BitcoinGivingPledge.github.io" target="_blank">BitcoinGivingPledge.github.io</a> to come. Want to help get this off the ground? <a href="#contact">Get in touch.</a>)
