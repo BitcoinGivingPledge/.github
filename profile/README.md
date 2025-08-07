@@ -4,8 +4,8 @@ Bitcoiners will soon be the wealthiest people in the world.<br>
       <br>
 <bold>How are we ensuring we steward this great responsibility to best do right by the most people?</bold><br>
 <br>
-       > There is a CrYPtO Giving Pledge – great. We're bitcoin-only; we're money only.<br>
-> The Billionaire's Giving Pledge exists... but what <s>the fuck</s> have they been doing?!<br>
+       > There is a CrYPtO Giving Pledge – great. We're bitcoin-only; we're money only.
+> The Billionaire's Giving Pledge exists... but what <s>the fuck</s> have they been doing?!
 
       <h3>We <s>can</s> will do better.</h3>
       <strong>21% to the cause(s) of your choice. At death—or perhaps better—during your life.</strong><br>
