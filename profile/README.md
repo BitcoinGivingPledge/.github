@@ -19,10 +19,15 @@ NO MINIMUM. Anyone—everyone—can BTC, Be The Change.
 Is it 21% of your stack to the cause(s) of your choice? 2.1%? Will you donate at death, or perhaps better, during your life? Or maybe you even opt to live off just 21% and dedicate your other 79%... IDK. Make it your own!
 
 SEE, FEEL, AND LIVE YOUR IMPACT
+
 It doesn't matter how much Bitcoin you have.
+
 You don't have to be a billionaire or even a millionaire; most of us aren't.
+
 No worries. Percentages don't care.
+
 You just have to have a good heart to do well in the world in even some small way.
+
 And then remember, you can just zap sats. ⚡️
 
 Let's make positive differences! Raise your bar. Ascend Maslow's Hierarchy. No contribution is too small.
